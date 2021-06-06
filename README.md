@@ -8,6 +8,7 @@
 
 * HTML
 * CSS
+* Markdown
 
 ## About
 
