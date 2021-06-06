@@ -1,0 +1,78 @@
+h1 {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.namebox {
+  width: 100%;
+  padding: 20px;
+  border: white;
+  border-width: 10px;
+  background-color: grey;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+
+.sum1 {
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+  font-weight: bold;
+  text-decoration: underline;
+  text-align: center;
+}
+
+.sum2 {
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  font-weight: normal;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+h2 {
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+  font-weight: bold;
+  text-align: left;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.intro {
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  font-weight: normal;
+  text-align: left;
+}
+
+.work {
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  font-weight: normal;
+  text-align: left;
+}
+
+.edu {
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  font-weight: normal;
+  text-align: center;
+}
+
+  .edu ul {
+    list-style-position: inside;
+  }
+
+.column {
+  columns: 300px;
+}
